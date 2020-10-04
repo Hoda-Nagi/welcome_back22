@@ -1,0 +1,75 @@
+.navbar-inverse .navbar-brand:after{
+  background:#be5d6b !important;
+}
+.navbar-header .brand-span{
+  color: #be5d6b
+}
+
+
+/*hjhjhjhjhj*/
+.navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:focus,
+  .navbar-inverse .navbar-nav>.active>a:hover,
+  .feature .container h1:after,
+  .client .container h1:after,
+  .team h1:after,
+  .contact-us h1:after {
+  	background-color: #be5d6b;
+  	
+  }
+
+    .about span,
+ .client .container span,
+ .team h3,
+ .footer a:hover,
+ .top-btn{
+ 	color:#be5d6b;
+ }
+ .feature .container .info{
+  background:rgba(190,93,107,0.2);
+
+border-left: 4px solid #be5d6b;
+ }
+ .team img{
+  border: 2px solid #be5d6b
+ }
+ .client .carousel-indicators li.active{
+ 	border: 3px solid #be5d6b;
+ }
+ .footer i:hover{
+ 	border:1px solid #be5d6b
+ }
+
+ .top-btn{
+ border: 2px solid #be5d6b} 
+
+
+
+
+/*other color*/
+
+
+
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover,
+.feature .container h1:after{
+	background-color:#be5d6b;
+}
+ .carousel-caption .contact .email>span,
+  .carousel-caption .contact .phone .glyphicon,
+.navbar-inverse .navbar-nav>li>a:focus,
+ .navbar-inverse .navbar-nav>li>a:hover {
+  color:#be5d6b ;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #be5d6b;
+    border-color: #be5d6b;}
+
+
+.btn-primary:hover {
+    color: #fff;
+    background:rgba(190,93,107,0.8);
+    border-color:rgba(190,93,107,0.8);
+
+    

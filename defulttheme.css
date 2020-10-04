@@ -1,0 +1,68 @@
+.navbar-inverse .navbar-brand:after{
+	background:#88bede !important;
+}
+.navbar-header .brand-span{
+	color:#88bede 
+}
+
+/*lklklklkl*/
+
+.navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:focus,
+  .navbar-inverse .navbar-nav>.active>a:hover,
+  .feature .container h1:after,
+  .client .container h1:after,
+  .team h1:after,
+  .contact-us h1:after {
+  	background-color: #378dc0;
+  	
+  }
+  .about span,
+ .client .container span,
+ .team h3,
+ .footer a:hover,
+ .top-btn{
+ 	color:#378dc0;
+ }
+ .feature .container .info{
+ 	background: #e3f0f5;
+
+border-left: 4px solid #378dc0;
+ }
+ 
+ .client .carousel-indicators li.active{
+ 	border: 3px solid #378dc0;
+ }
+ .footer i:hover{
+ 	border:1px solid #378dc0
+ }
+
+ .top-btn{
+ border: 2px solid #378dc0} 
+
+
+
+
+/*other color*/
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover,
+.feature .container h1:after
+{
+	
+	background-color:#88bede;
+}
+
+  .carousel-caption .contact .email>span,
+  .carousel-caption .contact .phone .glyphicon,
+.navbar-inverse .navbar-nav>li>a:focus,
+ .navbar-inverse .navbar-nav>li>a:hover {
+  color:#88bede ;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #286090;
+    border-color: #204d74}
